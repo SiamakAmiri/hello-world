@@ -4,6 +4,8 @@ import ExampleComponent,{AnotherComponent} from './components/ExampleComponent';
 import Greeting from './components/Greeting';
 import SongList from './components/SongList';
 
+
+//This is a comment
 function App() {
   return (
     <div className="App">
